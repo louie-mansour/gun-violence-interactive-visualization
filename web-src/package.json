@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "d3": "^4.13.0",
+    "d3": "^7.6.1",
     "node-sass": "^4.9.0",
     "nouislider": "^11.1.0",
     "react-addons-transition-group": "^15.6.2",
